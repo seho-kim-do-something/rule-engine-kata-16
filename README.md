@@ -12,6 +12,3 @@ Logs are printed in the console to show progress of processing.
 
 ### JUnit Testing ###
 Process is demonstrated and validated by tests.
-
-**_*contact me **
-> sehokim.ca@gmail.com
