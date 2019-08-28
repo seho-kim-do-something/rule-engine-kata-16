@@ -1,7 +1,7 @@
 # README #
 
 ### Purpose ###
-Tempo Software Excercise for http://codekata.com/kata/kata16-business-rules
+Excercise for http://codekata.com/kata/kata16-business-rules
 
 ### Logic & Judgment ###
 Generic Class supports various rules.
